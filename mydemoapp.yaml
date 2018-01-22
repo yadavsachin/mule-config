@@ -1,0 +1,5 @@
+#common configuration for all environments
+spring.profile: dev
+---
+#dev4 configurations
+spring.profiles: test
