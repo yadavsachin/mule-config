@@ -1,5 +1,6 @@
 #common configuration for all environments
 spring.profile: dev
+spring.profiles.include: dev
 ---
 #dev4 configurations
 spring.profiles: qa
