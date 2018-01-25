@@ -2,4 +2,4 @@
 spring.profile: dev
 ---
 #dev4 configurations
-spring.profiles: test
+spring.profiles: qa
